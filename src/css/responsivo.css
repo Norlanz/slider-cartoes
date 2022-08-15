@@ -1,0 +1,38 @@
+@media (max-width: 620px) {
+.cartoes-campeoes {
+    padding: 0 15px;
+    gap: 10px ;
+
+}
+    
+   .btn-seta {
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+
+    .lista.campeoes {
+        height: 480px
+
+    }
+
+}
+
+
+
+.cartao .imagem-campeao {
+max-height: 230px;
+
+}
+
+.cartao .informacoes .nome {
+    max-width: 50%;
+    font-size: 18px;
+}
+
+.cartao .informacoes .tipo {
+    font-size: 14px;
+}
